@@ -1,0 +1,62 @@
+
+b
+java:S2095C"GUse try-with-resources or close this "Formatter" in a "finally" clause.(™ïïüÿÿÿÿ
+K
+java:S3740„"/Provide the parametrized type for this generic.(Äùÿÿÿÿ
+K
+java:S3740–"/Provide the parametrized type for this generic.(õ¤ÑŞùÿÿÿÿ
+€
+java:S1488†"iImmediately return this expression instead of assigning it to the temporary variable "driverRecordArray".(ö†®±
+`
+java:S1854 "ERemove this useless assignment to local variable "driverRecordArray".(°ñîÑùÿÿÿÿ
+g
+java:S1854#"ERemove this useless assignment to local variable "driverRecordArray".(Ù¡ó‰ÿÿÿÿÿ8§¤ãÍ¨/
+E
+java:S6212"/Declare this local variable with "var" instead.(šæÓï
+J
+java:S6212"/Declare this local variable with "var" instead.(‰Ï‹âıÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(†ıÿÿÿÿ
+J
+java:S6212 "/Declare this local variable with "var" instead.(°ñîÑùÿÿÿÿ
+]	java:S125$"<This block of commented-out lines of code should be removed.(š¦¤ğşÿÿÿÿ8­¤ãÍ¨/
+B
+java:S16021",Remove useless curly braces around statement(¬à™È
+G
+java:S16129",Replace this lambda with a method reference.(æ„…Æûÿÿÿÿ
+G
+java:S16129",Replace this lambda with a method reference.(æ„…Æûÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(»„½‡
+X	java:S125;"<This block of commented-out lines of code should be removed.(½Ìíë8Ş÷»¸Ÿ/
+U
+java:S1172A"8Remove this unused method parameter "longestWordLength".(š›¶³8‹å¹¸Ÿ/
+J
+java:S6212C"/Declare this local variable with "var" instead.(™ïïüÿÿÿÿ
+J
+java:S6212D"/Declare this local variable with "var" instead.(Ù°şàüÿÿÿÿ
+L
+java:S6212F"/Declare this local variable with "var" instead.(ç“òİ8ÏÉº¸Ÿ/
+X	java:S125E"<This block of commented-out lines of code should be removed.(Ç‹Óß8Œå¹¸Ÿ/
+E
+java:S6212G"/Declare this local variable with "var" instead.(»ŸÜš
+C	java:S108K")Either remove or fill this block of code.(î’Ğışÿÿÿÿ
+^
+java:S3457P"AFormat specifiers should be used instead of string concatenation.(†‰‘ë8×ü±Õ /
+Q	java:S125a"<This block of commented-out lines of code should be removed.(ôáÃ
+]	java:S125e"<This block of commented-out lines of code should be removed.(Øˆá‰ùÿÿÿÿ8Ê¸¸Ÿ/
+J
+java:S6212r"/Declare this local variable with "var" instead.(ê¼äÿÿÿÿÿ
+G
+java:S1612|",Replace this lambda with a method reference.(•§êÈıÿÿÿÿ
+K
+java:S6212‚"/Declare this local variable with "var" instead.(‚ƒå²øÿÿÿÿ
+K
+java:S6212„"/Declare this local variable with "var" instead.(Äùÿÿÿÿ
+K
+java:S6212"/Declare this local variable with "var" instead.(¼“ò¢úÿÿÿÿ
+F
+java:S6212"/Declare this local variable with "var" instead.(¥î±
+K
+java:S6212–"/Declare this local variable with "var" instead.(õ¤ÑŞùÿÿÿÿ
+X
+java:S1481 "6Remove this unused "driverRecordArray" local variable.(°ñîÑùÿÿÿÿ8É¤ãÍ¨/

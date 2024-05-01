@@ -1,0 +1,25 @@
+
+[
+java:S1128"@Remove this unused import 'javax.swing.plaf.metal.MetalBorders'.(ªªíúÿÿÿÿ
+\
+java:S1854"?Remove this useless assignment to local variable "abreviation".(‚ÃÍ•8èÑú««/
+D
+java:S6212
+"/Declare this local variable with "var" instead.(‚Ã¥w
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º²ëöøÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ë§Œ«
+Z
+java:S3986"DMake sure that week Year "YY" is expected here instead of Year "yy".(ë§Œ«
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºÏíè
+J
+java:S6212"/Declare this local variable with "var" instead.(úÒÎ¹üÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(‚ÃÍ•
+E
+java:S6212"/Declare this local variable with "var" instead.(ƒŞç‹
+J
+java:S6212"/Declare this local variable with "var" instead.(Ñìñùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷ºâÿÿÿÿÿÿ
+M
+java:S1481"0Remove this unused "abreviation" local variable.(‚ÃÍ•8ìÑú««/

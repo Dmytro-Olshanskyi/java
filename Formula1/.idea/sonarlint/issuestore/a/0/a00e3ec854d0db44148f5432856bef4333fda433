@@ -1,0 +1,22 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(·ÎÑ£ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Áèşöûÿÿÿÿ
+K
+java:S1854,"5Remove this useless assignment to local variable "f".(ç—éº
+S	java:S106"9Replace this use of System.out or System.err by a logger.(óè™Œÿÿÿÿÿ
+D
+java:S6212"/Declare this local variable with "var" instead.(¥ê×
+
+E
+java:S6212"/Declare this local variable with "var" instead.(“ƒÆ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+E
+java:S6212'"/Declare this local variable with "var" instead.(¸Ÿ¬
+M	java:S106("9Replace this use of System.out or System.err by a logger.(òàš`
+J
+java:S6212)"/Declare this local variable with "var" instead.(ŒåøÇüÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(Œ·Óê
+E
+java:S6212,"/Declare this local variable with "var" instead.(ç—éº
+<
+java:S1481,"&Remove this unused "f" local variable.(ç—éº

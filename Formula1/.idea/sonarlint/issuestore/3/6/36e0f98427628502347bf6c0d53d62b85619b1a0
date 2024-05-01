@@ -1,0 +1,13 @@
+
+X
+java:S1854"=Remove this useless assignment to local variable "formatter".(Ÿ¿¼¿üÿÿÿÿ
+V
+java:S1117";Rename "lapTime" which hides the field declared at line 11.(ßã²şÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(¹ö¶ıÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ü¼Ó¼ûÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(Ÿ¿¼¿üÿÿÿÿ
+I
+java:S1481".Remove this unused "formatter" local variable.(Ÿ¿¼¿üÿÿÿÿ

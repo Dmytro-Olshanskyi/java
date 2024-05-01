@@ -1,0 +1,11 @@
+
+C
+java:S1604"(Make this anonymous inner class a lambda(Öääûÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "summer2".(Ôñ¢¿
+U
+java:S1854":Remove this useless assignment to local variable "summer".(Öääûÿÿÿÿ
+F
+java:S1481"+Remove this unused "summer" local variable.(Öääûÿÿÿÿ
+B
+java:S1481",Remove this unused "summer2" local variable.(Ôñ¢¿

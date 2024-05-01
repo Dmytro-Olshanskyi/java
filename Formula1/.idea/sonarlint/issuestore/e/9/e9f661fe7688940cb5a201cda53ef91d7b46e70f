@@ -1,0 +1,26 @@
+
+V
+java:S1128"@Remove this unused import 'jdk.swing.interop.SwingInterOpUtils'.(ñ©Ìë
+P
+java:S1128":Remove this unused import 'java.time.temporal.ChronoUnit'.(Á…§
+E
+java:S6212"/Declare this local variable with "var" instead.(£ÒÑÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ôø‘÷ûÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ˆºáªúÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ó„­Äùÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(Äğ£şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÔóÌ‡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œó¥ 
+E
+java:S6212"/Declare this local variable with "var" instead.(¾¦àè
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÜÜñúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×ˆ¼‰
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘úİ 8ÅÏ¥„¨/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ã—ÓĞ8ÆÏ¥„¨/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Ñ ÊÕûÿÿÿÿ8—©„¨/
+H
+java:S1068"-Remove this unused "formatter" private field.(‚šÿ„øÿÿÿÿ

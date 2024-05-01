@@ -1,0 +1,34 @@
+
+X
+java:S1854"=Remove this useless assignment to local variable "groupList".(‹ô†Ãÿÿÿÿÿ
+R
+java:S1854"<Remove this useless assignment to local variable "password".(Ò Á™
+R
+java:S1854"<Remove this useless assignment to local variable "username".(­ÿ½¦
+Q
+java:S1854";Remove this useless assignment to local variable "jdbcURL".(æÍÝ
+A
+java:S1481"&Remove this unused "$" local variable.(¾¾µ”øÿÿÿÿ
+B
+java:S1481",Remove this unused "jdbcURL" local variable.(æÍÝ
+C
+java:S1481"-Remove this unused "username" local variable.(­ÿ½¦
+C
+java:S1481"-Remove this unused "password" local variable.(Ò Á™
+I
+java:S1481".Remove this unused "groupList" local variable.(‹ô†Ãÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8±¦ §Ñ/
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8²¦ §Ñ/
+Q
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äþÿÿÿÿ8³¦ §Ñ/
+H
+java:S1128"+Remove this unused import 'java.io.Reader'.(µû¨é8´¦ §Ñ/
+B
+java:S1128"%Remove this unused import 'java.sql'.(´Ý…Å8´¦ §Ñ/
+b
+java:S1128
+"@Remove this unused import 'org.apache.ibatis.jdbc.ScriptRunner'.(÷ÑºÒüÿÿÿÿ8µ¦ §Ñ/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¾µ”øÿÿÿÿ

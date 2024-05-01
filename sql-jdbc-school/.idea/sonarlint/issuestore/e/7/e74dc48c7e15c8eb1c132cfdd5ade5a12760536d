@@ -1,0 +1,6 @@
+
+Q	java:S125#"<This block of commented-out lines of code should be removed.(´üô×
+S	java:S106("9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ
+X	java:S125/"<This block of commented-out lines of code should be removed.(ã¹áÜ8òà×°/
+}
+java:S14881"gImmediately return this expression instead of assigning it to the temporary variable "generatedString".(ìÇ¨å
